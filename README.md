@@ -44,7 +44,7 @@
 
 ### This project has been deployed to GitHub Pages and the link is as below
 
-## [The Dinner Party](https://seanbutcher1994.github.io/The-Dinner-Party/index.html)
+## [The Dinner Party](https://kittenknight06.github.io/project1-dinnerPartyApp/index.html)
 
 ### - The cover page is shown as below
 
